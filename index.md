@@ -9,7 +9,8 @@
 *   [HGame](https://2412322029.github.io/game).
 *   [more tool](https://2412322029.github.io/tool)
 *   [R18](https://www.tuwenhao.top/r18.html).
-*   [蔡徐坤](https://www.tuwenhao.top/cxk.html).
+*   [蔡徐坤](https://www.tuwenhao.top/1.html).
+*   [随机图api](https://iw233.cn/api/Random.php).
 
 
 
