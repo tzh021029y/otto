@@ -7,8 +7,8 @@ layout: default
 Welcome
 
 *   [更多游戏](https://xingye.me/game/index.php).
-*   [Github](https://github.com/arcxingye).
-*   [博客](https://xingye.me/).
-*   [b站](https://space.bilibili.com/3853579).
+*   [Github](https://github.com/2412322029).
+*   [博客](https://www.tuwenhao.xyz/wordpress/).
+*   [b站](https://space.bilibili.com/361472458).
 
 
