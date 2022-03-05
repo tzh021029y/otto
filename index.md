@@ -1,3 +1,7 @@
+---
+布局：默认
+---
+
 # Github Pages
 *   [来源](https://github.com/arcxingye/arcxingye.github.io).
 
