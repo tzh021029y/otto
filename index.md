@@ -9,7 +9,7 @@ layout: default
 *   [HGame](https://2412322029.github.io/game).
 *   [more tool](https://2412322029.github.io/tool)
 *   [R18](https://www.tuwenhao.top/r18.html).
-*   [蔡徐坤](https://www.tuwenhao.top/index.html).
+*   [蔡徐坤](https://www.tuwenhao.top/cxk.html).
 
 
 
