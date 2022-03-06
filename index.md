@@ -1,5 +1,5 @@
 ---
-布局：默认
+layout: default
 ---
 
 # Github Pages
