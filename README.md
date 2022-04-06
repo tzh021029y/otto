@@ -1,7 +1,6 @@
 # 域名
 >https://www.tuwenhao.xyz
->https://www.tuwenhao.top
->>*将于2023年更换*
+>https://lolik.me
 # 联系
 Email & QQ 
 >2412322029@qq.com
